@@ -319,6 +319,9 @@
     <Content Include="Scripts\popper-utils.js.map" />
     <Content Include="Views\BicycleRental\Create.cshtml" />
     <Content Include="Views\BicycleRental\Index.cshtml" />
+    <Content Include="Views\BicycleRental\Edit.cshtml" />
+    <Content Include="Views\BicycleRental\Details.cshtml" />
+    <Content Include="Views\BicycleRental\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
