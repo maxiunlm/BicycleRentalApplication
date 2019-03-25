@@ -1,5 +1,5 @@
 # BicycleRentalApplication
-Bicycle Rental Application is a four layers system.
+Bicycle Rental Application is a four layers system and I applied SOLID principles for it. The Solution is a Visual Studio 2017 solution.
 
 1. BicycleRentalApplication: it's an ASP.MVC proyect only for the UI.
 2. BicycleRentalApplication.Rent.Core: it's the logic layer. You'll find the business rules there.
@@ -9,6 +9,8 @@ Bicycle Rental Application is a four layers system.
 ## TDD (Unit Tests)
 I did this application with TDD methodology. It's a plus to Unit Tests.
 The Code Coverage is really high but only for the BicycleRentalController and the Core layer. For technical reasons, the Dal layer usualy have a low level of Code Coverage (The DbContext classes can't be overloaded).
+
+You can run the Tests pressing the 'Run All' link from the 'Test Explorer' window of the Visual Studo 2017.
 
 ## Create Database (MS-SQL Server)
 
