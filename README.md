@@ -23,6 +23,7 @@ While I was doing the application I realized this System is too small for implem
 However, if I have to chose one Message Queue Model, I would have chosen Rabbit.MQ with a RPC (Remote Procedure Call) schema.
 
 RPC: https://www.rabbitmq.com/tutorials/tutorial-six-dotnet.html
+
 C# Rabbit.MQ Client: https://www.rabbitmq.com/dotnet-api-guide.html
 
 For download an run a Rabbit.Mq instance, run the following RabbitMQ docker image:
